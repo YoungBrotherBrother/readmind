@@ -1,4 +1,4 @@
 readmind
 ========
 
-readmind processing sketch, R scripts and samples 
+readmind processing sketch, R scripts and samples
